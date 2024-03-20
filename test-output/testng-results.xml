@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T11:27:19Z" name="Default suite" finished-at="2024-03-20T11:27:23Z" duration-ms="3361">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T11:27:19Z" name="Default test" finished-at="2024-03-20T11:27:23Z" duration-ms="3361">
+      <class name="SerializationAndDeSerialization.CreatePetTest">
+        <test-method signature="createPetTest_Serialization_DeSerialization_UsingBuilderPattern()[pri:0, instance:SerializationAndDeSerialization.CreatePetTest@48bb62]" started-at="2024-03-20T11:27:19Z" name="createPetTest_Serialization_DeSerialization_UsingBuilderPattern" finished-at="2024-03-20T11:27:23Z" duration-ms="3337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPetTest_Serialization_DeSerialization_UsingBuilderPattern -->
+      </class> <!-- SerializationAndDeSerialization.CreatePetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
