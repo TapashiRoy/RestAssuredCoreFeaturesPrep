@@ -1,6 +1,6 @@
 allure-results/
 test-output/
-.settings/
+/settings
 application.log
 ##############################
 ## Java
