@@ -24,3 +24,11 @@ Allure Report for reporting
 
 Please feel free to connect me on Linkedin - https://www.linkedin.com/in/tapashisharmaroy/
 
+🌐 APIs under the scope of this project are -
+
+https://gorest.co.in/public/v2/users
+http://ergast.com//api/f1
+https://test.api.amadeus.com/v1/security/oauth2/token
+https://test.api.amadeus.com/v1/shopping/flight-destinations
+Note that this APIs are being used for testing purposes, and I, the tester, acknowledge that I do not own or have any rights to this URLs. Testing activities are for demo purposes only.
+
